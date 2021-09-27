@@ -1,6 +1,6 @@
-## Oi, me chamo Thigo de Freitas
+## Oi, sou Thiago de Freitas
 
-- 👀 Estou visando senior em JavaScript e me interesso por back-end e machine larning
+- 👀 Estou visando senior em JavaScript e me interesso por back-end e machine learning
 - 🌱 Estou atualmente estudando Node.js e aprofundando os conhecimentos em JavaScript
 
 
