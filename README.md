@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/thiago.freitas17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/thiago-de-freitas-gon%C3%A7alves-178870172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/thiagofreitasfreelancer/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThiagoFreitasFreelancer/ThiagoFreitasFreelancer/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!---
