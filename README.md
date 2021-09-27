@@ -1,13 +1,13 @@
 ## Oi, me chamo Thigo de Freitas
 
-- 👀 Estou visando senior em JavaScript e me intereço por back-end e machine larning
-- 🌱 Estou atualmente estudnando Node.js e aprofundando os connhecimento em JavaScript
+- 👀 Estou visando senior em JavaScript e me interesso por back-end e machine larning
+- 🌱 Estou atualmente estudando Node.js e aprofundando os conhecimentos em JavaScript
 
 
 <div align="center">
   <a href="https://github.com/thiagofreitasfreelancer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofreitasfreelancer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofreitasfreelancer&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofreitasfreelancer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofreitasfreelancer&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
