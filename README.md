@@ -1,8 +1,22 @@
-## Oi, sou Thiago de Freitas
+# Thiago de Freitas Gonçalves
 
-- 👀 Estou visando senior em JavaScript e me interesso por back-end e machine learning
-- 🌱 Estou atualmente estudando Node.js e aprofundando os conhecimentos em JavaScript
+## Desenvolvedor Web e Futuro Empreendedor
 
+### Educação
+- Universidade Estadual de Santa Cruz, Curso de Ciência da Computação
+
+### Foco Técnico
+Meu foco acadêmico e profissional está centrado no desenvolvimento web utilizando tecnologias de vanguarda. Minha competência abrange:
+- Linguagens: JavaScript, TypeScript
+- Frameworks: React.js, Node.js
+- Testes de Software: Teste de API REST, Teste de Automação.
+
+### Empreendedorismo
+Além da minha dedicação à tecnologia, alimento a ambição de criar empreendimentos no campo tecnológico. Tenho projetos pessoais significativos:
+- "Safe": Um Sistema de Auxílio ao Fluxo Econômico, visando otimizar processos financeiros.
+- "HMS" (Hairdressing Management System): Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
+
+Meu objetivo é contribuir significativamente para a evolução do setor tecnológico, tanto através da excelência técnica quanto do empreendedorismo.
 
 <div align="center" height="100%" >
   <a href="https://github.com/thiagofreitasfreelancer">
