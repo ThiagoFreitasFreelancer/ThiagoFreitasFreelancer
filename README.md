@@ -3,18 +3,18 @@
 ## Desenvolvedor Web e Futuro Empreendedor
 
 ### Educação
-- Universidade Estadual de Santa Cruz, Curso de Ciência da Computação
+- Universidade Estadual de Santa Cruz, Curso de Ciência da Computação.
 
 ### Foco Técnico
 Meu foco acadêmico e profissional está centrado no desenvolvimento web utilizando tecnologias de vanguarda. Minha competência abrange:
-- Linguagens: JavaScript, TypeScript
-- Frameworks: React.js, Node.js
-- Testes de Software: Teste de API REST, Teste de Automação.
+- Linguagens: JavaScript, TypeScript.
+- Frameworks: React.js, Node.js, Postgres, Express.
+- Testes de Software: Teste de API REST, Teste de Automação com Selenium.
 
 ### Empreendedorismo
 Além da minha dedicação à tecnologia, alimento a ambição de criar empreendimentos no campo tecnológico. Tenho projetos pessoais significativos:
 - "Safe": Um Sistema de Auxílio ao Fluxo Econômico, visando otimizar processos financeiros.
-- "HMS" (Hairdressing Management System): Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
+- "HMS": (Hairdressing Management System): Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
 
 Meu objetivo é contribuir significativamente para a evolução do setor tecnológico, tanto através da excelência técnica quanto do empreendedorismo.
 
