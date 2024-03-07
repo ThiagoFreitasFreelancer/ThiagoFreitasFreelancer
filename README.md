@@ -1,6 +1,6 @@
 # Thiago de Freitas Gonçalves
 
-## Desenvolvedor Web e Futuro Empreendedor
+## Empreendedor | Desenvolvedor Web | Tester
 
 ### Educação
 - Universidade Estadual de Santa Cruz, Curso de Ciência da Computação.
