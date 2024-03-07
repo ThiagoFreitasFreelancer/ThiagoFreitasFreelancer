@@ -1,5 +1,7 @@
 # Thiago de Freitas Gonçalves
 
+## Sócio Fundador da Empresa Gonçalves Web Solution
+
 ## Empreendedor | Desenvolvedor Web | Tester
 
 ### Educação
@@ -14,8 +16,6 @@ Meu foco acadêmico e profissional está centrado no desenvolvimento web utiliza
 ### Empreendedorismo
 Além da minha dedicação à tecnologia, alimento a ambição de criar empreendimentos no campo tecnológico. Tenho projetos pessoais significativos:
 - "HMS": (Hairdressing Management System): Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
-
-## Sócio Fundador da Empresa Gonçalves Web Solution
 
 Meu objetivo é contribuir significativamente para a evolução do setor tecnológico, tanto através da excelência técnica quanto do empreendedorismo.
 
