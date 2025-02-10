@@ -1,6 +1,6 @@
 # Thiago de Freitas Gonçalves
 
-## Sócio Fundador da Empresa Gonçalves Web Solution
+## Sócio Fundador da Empresa Punk Code Soution
 
 ## Empreendedor | Desenvolvedor Web | Tester
 
