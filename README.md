@@ -2,20 +2,20 @@
 
 ## Sócio Fundador da Empresa Punk Code Soution
 
-## Empreendedor | Desenvolvedor Web | Tester
+## Empreendedor | Desenvolvedor Web | QA Tester
 
 ### Educação
 - Universidade Estadual de Santa Cruz, Curso de Ciência da Computação.
 
 ### Foco Técnico
 Meu foco acadêmico e profissional está centrado no desenvolvimento web utilizando tecnologias de vanguarda. Minha competência abrange:
-- Linguagens: JavaScript, TypeScript.
-- Frameworks: React.js, Node.js, Postgres, Express.
+- Linguagens: JavaScript, TypeScript, Java.
+- Frameworks: Angular.js, Node.js, Postgres, Express.
 - Testes de Software: Teste de API REST, Teste de Automação com Selenium.
 
 ### Empreendedorismo
 Além da minha dedicação à tecnologia, alimento a ambição de criar empreendimentos no campo tecnológico. Tenho projetos pessoais significativos:
-- "HMS": (Hairdressing Management System): Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
+- Studio & Style: Uma solução para gestão de salões de beleza, alavancando tecnologia para aprimorar a administração.
 
 Meu objetivo é contribuir significativamente para a evolução do setor tecnológico, tanto através da excelência técnica quanto do empreendedorismo.
 
